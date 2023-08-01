@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+<h1 align=center> Olá Mundo!</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bem vindo! 👋
 
-## Available Scripts
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
+![NPM](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJheimys%2FOrgano_II%2Fedit%2Fmaster%2FREADME.m)
 
-In the project directory, you can run:
+Obrigado pela visita e fique a vontade!
 
-### `npm start`
+Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Descrição do Projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O Olá Mundo é um projeto com ênfase em desenvolvimento web utilizando diversos frameworks JavaScript. O objetivo principal é simular um blog de tecnologia. O React foi a principal tecnologia usada no projeto, nele busquei aprimorar meus conhecimentos sobre React Router.
 
-### `npm test`
+  <p align=center>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/olamundo1.png'>
+  </p>
+  <p align=center>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/olamundo2.png'>
+  </p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Status do Projeto
 
-### `npm run build`
+> :trophy: Finalizado ::trophy:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Funcionalidades do projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+:hammer: `Funcionalidade`: Navegar em diferentes rotas.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Tecnologias:
 
-### `npm run eject`
+:heavy_check_mark: HTML
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+:heavy_check_mark:CSS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:heavy_check_mark: JavaScript
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+:heavy_check_mark: React
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Acesso ao projeto
 
-## Learn More
+:link: https://ola-mundo-rose.vercel.app/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Autor
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![img](https://github.com/Jheimys.png?size=100)
 
-### Code Splitting
+James Bezerra Bassani
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/jheimys/)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Have fun building!** 🚀
